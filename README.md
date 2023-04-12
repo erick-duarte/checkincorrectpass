@@ -18,3 +18,7 @@ Feito isso reinicie o Mac e após iniciar a sessão o script ficará executando.
 Obs: Na primeira vez que os script executar, provavelmente pedira permissão da Camera e do Microfone, autorize!
 
 <img width="302" alt="image" src="https://user-images.githubusercontent.com/59427098/231323180-d3bb00a7-a35c-4dd3-a6d5-cad4b1d41d6e.png">
+
+## resultado
+
+![PHOTO-2023-04-11-22-44-18](https://user-images.githubusercontent.com/59427098/231325783-a348b175-ac1b-4dd2-a1aa-2c66edcbad99.jpg)
